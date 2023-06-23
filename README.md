@@ -1,11 +1,15 @@
 ### Welcome To AzizNader's Profile 👋
 
 Skills
-Programming Languages: Java, Python, JavaScript
-Web Development: HTML, CSS, React, Node.js
-Database: SQL, MongoDB
+
+Programming Languages: Java, Python
+
+Web Development: HTML, CSS
+
+Database: SQL,MYSQL
+
 Version Control: Git, GitHub
-Testing: JUnit, Selenium
+
 
 <!--
 **AzizNader1/AzizNader1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
