@@ -1,12 +1,69 @@
 <h1 align="center">Hi 👋, I'm Aziz Nader</h1>
-<h3 align="center">I'm a student at assuit university</h3>
+<h3 align="center">I'm a .Net Web Developer</h3>
 
-- 💬 Ask me about **any thing in my skills below**
+Hello! I'm Aziz Nader, a proficient .Net Web Developer with over 2 years of experience in building dynamic, high-performance web applications. My goal is to deliver top-notch solutions tailored to your unique needs.
 
+Strengths and Skills:
+
+.Net Development: Mastery in .Net Framework and .Net Core, ensuring scalable and maintainable applications.
+
+C# Programming: Expert in writing clean, efficient, and robust code using C#.
+
+ASP.Net MVC & Web API: Proven track record in developing secure and efficient web applications and APIs.
+
+Front-End Development: Skilled in HTML5, CSS3, JavaScript.
+
+Database Management: Proficient in SQL Server and MySQL, including complex queries and performance tuning.
+
+Version Control: Strong experience with Git for seamless collaboration and code management.
+
+My Projects :
+
+•	7asad Web Application Project
+	This app represents a marketplace which collects farmers, agriculture companies, and agriculture 
+        engineers to help them communicate and collaborate easy to improve the process between them 
+        and provide a place to each one to offers has services and also get the services of other people in 
+        the same marketplace where he is.
+
+•	Online Auctions Website
+	This website represents the marketplace which help the user to make his bidding on any auctions 
+        he need from the location he lives without any need to be in the same place of the auction and 
+        this website also provide to the user the ability to upload his on auctions and receive the biddings 
+        on it.
+
+•	Website Bank System
+	The idea of this app is to simulate a bank system which help customers to make their own regular 
+        transactions such as borrowing, create accounts, deposits, withdrawals … etc
+
+•	Web Application for Assuit University
+	The idea of this application is to help doctors, students, and other participants to apply for the 
+        grants and projects that are provided by the university online and replace the paper documents 
+        with electronic files.
+
+•	Absence Recorder Mobile Application
+	This was an individual work to make a simple prototype which will help everyone who is 
+        responsible for the absence inside any organization by using the mobile phone instead of the 
+        regular form of the absence papers.
+
+•	Desktop library system
+	The idea of this app is to build a system that will help the librarian to search for any book inside the 
+        library, manage the transactions of the buying and borrowing books, and view the revenue of the 
+        library sales and the cost of the sold books.
+
+•	Library web store
+	The idea of this application is to build a system that involves the users who wants to buy a book 
+        and the library owner who wants to sell book online not just on the same physical location and 
+        also provide functions to the library owner to manage the sales of his library , and the cost of the 
+        sold books.
+
+Education:
+
+Bachelor's Degree in Business Information System from Assuit University.
 - 📫 How to reach me **aziznader555@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me via email:aziznader555@gmail.com</h3>
+<h3 align="left">Connect with me via Phone: +02 01208160641 </h3>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
