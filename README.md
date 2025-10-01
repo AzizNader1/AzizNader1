@@ -1,55 +1,26 @@
 <h1 align="center">Hi 👋, I'm Aziz Nader</h1>
 <h3 align="center">I'm a C#/.NET Software Engineer</h3>
 
-Hello! I'm Aziz Nader, a proficient .Net Web Developer with over 2 years of experience in building dynamic, high-performance web applications. My goal is to deliver top-notch solutions tailored to your unique needs.
+Hello! I'm Aziz Nader, .NET Developer | Software Engineer | .NET Web API Developer
 
-Strengths and Skills:
+I am a passionate and results-driven .NET Developer with hands-on experience designing, developing, and optimizing high-performance software solutions for diverse industries. My mission is to leverage cutting-edge technologies and best practices to build scalable, secure, and innovative applications that drive business success. 
 
-.Net Development: Mastery in .Net Framework and .Net Core, ensuring scalable and maintainable applications.
+Specializing in the Microsoft .NET ecosystem, I excel in C#, ASP.NET Core, MVC, Web API, Entity Framework, and Azure Cloud Services. Whether it's developing enterprise-grade applications, integrating third-party APIs, or optimizing database performance, I focus on delivering clean, maintainable, and efficient code that meets both user needs and business objectives. 
 
-C# Programming: Expert in writing clean, efficient, and robust code using C#.
+My expertise spans full-stack development, allowing me to contribute across the entire software development lifecycle—from requirement analysis and system architecture to deployment. I thrive in collaborative environments, working closely with cross-functional teams to translate complex business requirements into robust technical solutions. 
 
-ASP.Net MVC & Web API: Proven track record in developing secure and efficient web applications and APIs.
+🌟 Key Highlights:
 
-Front-End Development: Skilled in HTML5, CSS3, JavaScript.
+✅ Successfully delivered scalable .NET solutions for clients in finance, healthcare, and e-commerce, improving system performance and user experience.
+✅ Strong background in database design (SQL Server, Cosmos DB) and performance optimization. 
+✅ Proven ability to troubleshoot, debug, and refactor legacy systems for modern standards. 
+✅ Passionate about mentoring developers and sharing knowledge through tech talks and open-source contributions.
 
-Database Management: Proficient in SQL Server and MySQL, including complex queries and performance tuning.
+As a lifelong learner, I stay ahead of industry trends by exploring Blazor, Docker, Kubernetes, and CI/CD pipelines. I believe in writing code that not only works but also adheres to SOLID principles, clean architecture, and test-driven development (TDD). 
 
-Version Control: Strong experience with Git for seamless collaboration and code management.
+My goal is to help organizations and fellow developers embrace innovation while maintaining high standards in software engineering. 
 
-My Projects :
-
-•	7asad Web Application Project
-	This app represents a marketplace which collects farmers, agriculture companies, and agriculture 
-        engineers to help them communicate and collaborate easy to improve the process between them 
-        and provide a place to each one to offers has services and also get the services of other people in 
-        the same marketplace where he is.
-
-•	Online Auctions Website
-	This website represents the marketplace which help the user to make his bidding on any auctions 
-        he need from the location he lives without any need to be in the same place of the auction and 
-        this website also provide to the user the ability to upload his on auctions and receive the biddings 
-        on it.
-
-•	Website Bank System
-	The idea of this app is to simulate a bank system which help customers to make their own regular 
-        transactions such as borrowing, create accounts, deposits, withdrawals … etc
-	
-•	Absence Recorder Mobile Application
-	This was an individual work to make a simple prototype which will help everyone who is 
-        responsible for the absence inside any organization by using the mobile phone instead of the 
-        regular form of the absence papers.
-
-•	Desktop library system
-	The idea of this app is to build a system that will help the librarian to search for any book inside the 
-        library, manage the transactions of the buying and borrowing books, and view the revenue of the 
-        library sales and the cost of the sold books.
-
-•	Library web store
-	The idea of this application is to build a system that involves the users who wants to buy a book 
-        and the library owner who wants to sell book online not just on the same physical location and 
-        also provide functions to the library owner to manage the sales of his library , and the cost of the 
-        sold books.
+Let’s connect to discuss how I can contribute to your next .NET project or tech initiative!
 
 Education:
 
