@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Aziz Nader Aziz</h1>
 <h3 align="center">💻 C# .NET Developer | ASP.NET Core Developer | Full-Stack Engineer</h3>
 
@@ -12,7 +11,7 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 **Business Information Systems Graduate**
+- 🎓 Business Information Systems Graduate  
 - 🏫 Faculty of Commerce – BIS Program  
 - 📍 Based in Egypt  
 - 📊 **GPA: 3.84 / 4.0 (Excellence)**  
@@ -50,7 +49,7 @@
 
 ---
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -83,11 +82,8 @@ Full-stack auction platform built using **ASP.NET Core MVC and SQL Server**
 - 📈 Improved SQL query performance by **25%**
 - 🚀 Delivered the project **2 weeks ahead of schedule**
 
-🔗 Live Demo  
-http://mybiddingsite.runasp.net/Home/HomePage
-
-🔗 GitHub  
-https://github.com/AzizNader1/Online-Auction-Website
+You can explore the **[Live Demo](http://mybiddingsite.runasp.net/Home/HomePage)**  
+and view the **[Source Code](https://github.com/AzizNader1/Online-Auction-Website)**.
 
 ---
 
@@ -100,10 +96,9 @@ Repository containing **70+ solved algorithm problems in C#**
 ✔ Algorithms  
 ✔ Data Structures  
 ✔ LINQ Challenges  
-✔ Interview Questions
+✔ Interview Questions  
 
-🔗  
-https://github.com/AzizNader1/CSharpProblemsWithSolutions
+Explore the repository **[here](https://github.com/AzizNader1/CSharpProblemsWithSolutions)**.
 
 ---
 
@@ -123,8 +118,7 @@ Achievements
 📉 Reduced database query time by **25%**  
 🔐 Implemented secure **authentication and RBAC**
 
-🔗  
-https://github.com/AzizNader1/Graduation_Project
+View the project **[on GitHub](https://github.com/AzizNader1/Graduation_Project)**.
 
 ---
 
@@ -136,8 +130,7 @@ Digitized university grant workflow.
 ✔ Handles **300+ applications monthly**  
 ✔ Reduced processing time by **40%**
 
-🔗  
-https://github.com/MKOMohammed/SRM
+Explore the project **[here](https://github.com/MKOMohammed/SRM)**.
 
 ---
 
@@ -151,8 +144,7 @@ Features
 - Dynamic game catalog
 - AJAX search system
 
-🔗  
-https://github.com/AzizNader1/GamingWebsite
+Check the project **[on GitHub](https://github.com/AzizNader1/GamingWebsite)**.
 
 ---
 
@@ -160,9 +152,11 @@ https://github.com/AzizNader1/GamingWebsite
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AzizNader1&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AzizNader1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizNader1&layout=compact&theme=tokyonight" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizNader1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -171,15 +165,8 @@ https://github.com/AzizNader1/GamingWebsite
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizNader1&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=AzizNader1&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🌐 Portfolio
-
-💻  
-https://aziznader1.github.io/My-Portfolio
 
 ---
 
