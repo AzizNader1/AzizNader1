@@ -1,170 +1,220 @@
-# 👋 Hi, I'm Aziz Nader Aziz
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Aziz Nader Aziz</h1>
+<h3 align="center">💻 C# .NET Developer | ASP.NET Core Developer | Full-Stack Engineer</h3>
 
-💻 **C# .NET Developer | ASP.NET Core Developer | Full-Stack Software Engineer**
-
-I build **secure, scalable, and high-performance web applications** using modern .NET technologies and clean architectural principles.
-
-My focus is on developing **production-ready backend systems, RESTful APIs, and full-stack web platforms** that solve real business problems.
-
----
-
-## 🚀 About Me
-
-- 🎓 Business Information Systems Graduate  
-- 🏫 Assiut University — **GPA: 3.84 / 4.0 (Excellence)**
-- 💡 Passionate about **scalable system design and enterprise-grade .NET development**
-- 🧠 Strong believer in **Clean Architecture, SOLID principles, and maintainable code**
-- 📈 Continuously improving my expertise in **system design and advanced backend development**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;ASP.NET+Core+Specialist;Clean+Architecture+Enthusiast;RESTful+API+Engineer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### Backend
-- C#
-- ASP.NET Core
-- ASP.NET MVC
-- RESTful APIs
-- Entity Framework Core
-- LINQ
-- SignalR
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- AJAX
-- Bootstrap
+- 🎓 **Business Information Systems Graduate**
+- 🏫 Faculty of Commerce – BIS Program  
+- 📍 Based in Egypt  
+- 📊 **GPA: 3.84 / 4.0 (Excellence)**  
+- 💡 Passionate about **scalable backend systems and enterprise architecture**
+- 🧠 Strong believer in **Clean Architecture & SOLID principles**
+- 📈 Currently improving my skills in **system design and advanced .NET engineering**
 
-### Databases
-- SQL Server
-- SQLite
+---
 
-### Tools
-- Visual Studio
-- VS Code
-- Git & GitHub
-- Postman
-- GitHub Copilot
+# 🧰 Tech Stack
 
-### Architecture & Concepts
-- SOLID Principles
-- Clean / Onion Architecture
-- Design Patterns
-- Algorithms & Data Structures
-- Domain Driven Design (DDD)
+### 👨‍💻 Backend Development
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-00BFFF?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+---
+
+### 🗄 Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+### ⚙️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+
+---
+
+# 🏗 Architecture & Concepts
+
+🧩 SOLID Principles  
+🏛 Clean Architecture / Onion Architecture  
+📐 Design Patterns  
+🧠 Algorithms & Data Structures  
+🏗 Domain Driven Design (DDD)
 
 ---
 
 # 💼 Professional Experience
 
-## .NET Developer (Freelance)
-### Enterprise Auction Platform
+## 🏢 Enterprise Auction Platform
 
-- Built a **full-stack enterprise auction platform** using ASP.NET Core MVC and SQL Server
-- Designed **secure authentication and role-based authorization system**
-- Implemented **real-time bidding functionality using AJAX**
-- Optimized database queries and improved performance by **25%**
-- Delivered the project **2 weeks ahead of schedule with zero critical bugs**
+Full-stack auction platform built using **ASP.NET Core MVC and SQL Server**
+
+✨ Key achievements
+
+- 🔐 Implemented **secure authentication and role-based authorization**
+- ⚡ Built **real-time bidding system using AJAX**
+- 📈 Improved SQL query performance by **25%**
+- 🚀 Delivered the project **2 weeks ahead of schedule**
 
 🔗 Live Demo  
 http://mybiddingsite.runasp.net/Home/HomePage
 
-🔗 Source Code  
+🔗 GitHub  
 https://github.com/AzizNader1/Online-Auction-Website
 
 ---
 
-# 📌 Featured Projects
+# 📂 Featured Projects
 
-## 🧠 C# Algorithms & Problem Solving
-A growing repository of **algorithm problems solved in C#** with explanations and complexity analysis.
+## 🧠 C# Algorithms Repository
 
-- 70+ problems solved
-- Covers algorithms, data structures, and LINQ challenges
-- Target: **200+ problems by 2025**
+Repository containing **70+ solved algorithm problems in C#**
 
-🔗 Repository  
+✔ Algorithms  
+✔ Data Structures  
+✔ LINQ Challenges  
+✔ Interview Questions
+
+🔗  
 https://github.com/AzizNader1/CSharpProblemsWithSolutions
 
 ---
 
-## 🌱 7asad – Graduation Web Application
+## 🌱 7asad – Graduation Project
 
-Platform connecting **farmers and agricultural engineers**.
+Platform connecting **farmers and agricultural engineers**
 
-Technologies:
+Technologies
+
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server
 - RESTful APIs
 
-Key Achievements:
-- Optimized database performance by **25%**
-- Implemented **secure authentication and role management**
+Achievements
 
-🔗 GitHub  
+📉 Reduced database query time by **25%**  
+🔐 Implemented secure **authentication and RBAC**
+
+🔗  
 https://github.com/AzizNader1/Graduation_Project
 
 ---
 
 ## 🎓 University Grant Management System
 
-Digitized a **manual grant application workflow** into a scalable web platform.
+Digitized university grant workflow.
 
-Key Results:
-- Reduced processing time by **40%**
-- Supports **500+ users**
-- Handles **300+ monthly applications**
+✔ Serves **500+ users**  
+✔ Handles **300+ applications monthly**  
+✔ Reduced processing time by **40%**
 
-🔗 GitHub  
+🔗  
 https://github.com/MKOMohammed/SRM
 
 ---
 
-## 🎮 Gaming Website – Game Zone
+## 🎮 Game Zone Website
 
-Game download platform with dynamic catalog and authentication.
+Gaming download platform.
 
-Features:
-- Secure user authentication
-- Dynamic game catalog management
-- AJAX search and filtering
+Features
 
-🔗 GitHub  
+- User authentication
+- Dynamic game catalog
+- AJAX search system
+
+🔗  
 https://github.com/AzizNader1/GamingWebsite
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AzizNader1&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizNader1&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizNader1&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🌐 Portfolio
 
-🔗 Portfolio Website  
+💻  
 https://aziznader1.github.io/My-Portfolio
 
 ---
 
 # 🤝 Leadership & Community
 
-- 👨‍🏫 Volunteer **Code Reviewer** mentoring junior developers
-- 🧑‍💼 **Tech Club Vice President** organizing coding bootcamps
-- ⚡ **Agile Team Leader** managing Scrum-based university projects
+👨‍🏫 Volunteer **Code Reviewer**  
+🧑‍💼 **Tech Club Vice President**  
+⚡ **Agile Team Leader**
+
+Helping developers write **cleaner and more maintainable code**.
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email  
-aziznader555@gmail.com  
+<p align="center">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/aziz-nader-b86754203
+<a href="mailto:aziznader555@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🐙 GitHub  
-https://github.com/AzizNader1
+<a href="https://www.linkedin.com/in/aziz-nader-b86754203">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🌐 Portfolio  
-https://aziznader1.github.io/My-Portfolio
+<a href="https://github.com/AzizNader1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://aziznader1.github.io/My-Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+</p>
 
 ---
 
-⭐ **Always open to collaboration, learning opportunities, and challenging engineering problems.**
+⭐ *Always open to collaboration, challenging engineering problems, and new opportunities.*
